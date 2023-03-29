@@ -1,5 +1,5 @@
 echo "What is the commit message ?"
-read commitMesssage
+read commitMessage
 cd /Users/radoslawfalak/Desktop/GIT/FrontStep 
 git add .
 git commit -m commitMessage
